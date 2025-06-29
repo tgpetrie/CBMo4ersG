@@ -1,0 +1,1 @@
+export default function BHABITLogo() { return (<header className="flex items-center justify-center"><h1 className="font-display text-7xl md:text-8xl text-text-white tracking-widest" style={{ textShadow: '2px 2px 15px rgba(138, 43, 226, 0.5)' }}>BHABIT</h1><img src="/rabbit-logo.svg" alt="Rabbit Logo" className="w-16 h-16 ml-4 -mt-2" /></header>); }
