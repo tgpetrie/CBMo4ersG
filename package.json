@@ -1,7 +1,7 @@
 {
-  "name": "betacb3.11",
-  "version": "1.0.0",
+  "name": "bhabit-cb4-vercel",
   "private": true,
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
     "swr": "^2.2.5"
   },
@@ -19,6 +19,6 @@
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.1",
-    "vite": "^5.4.19"
+    "vite": "^5.2.0"
   }
 }
